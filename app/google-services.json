@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489845222029",
+    "project_id": "datarencang",
+    "storage_bucket": "datarencang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489845222029:android:972a697b92a073a3ae10c4",
+        "android_client_info": {
+          "package_name": "com.example.datarencang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489845222029-v0m8cu0ps7f3fg8od2t5ufqgo4as4smg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datarencang",
+            "certificate_hash": "8425513a8010d72e82ff30a223faaa5b95798b78"
+          }
+        },
+        {
+          "client_id": "489845222029-154dlhqdtg2234ju0churhnfq2b19tpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6hDLiSWb-yUsb5trAgT-n3YEPZAIufE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489845222029-154dlhqdtg2234ju0churhnfq2b19tpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
